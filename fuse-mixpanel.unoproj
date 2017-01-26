@@ -2,8 +2,7 @@
   "RootNamespace":"",
   "Packages": [
   	"Fuse",
-  	"FuseJS",
-	"Firebase.Analytics"
+  	"FuseJS"
   ],
   "Includes": [
     "*"
